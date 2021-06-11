@@ -7,7 +7,7 @@ Thanks for checking out my profile!
 
 #### A bit more about me
 
-I'm a Comptuer Science and Digital Studies student at Grand Valley State University and have been making digital media for nearly a decade. I have years of professional experience with the Adobe Suite and 3D art packages, experience with Java, C#, C++ HTML/CSS, JavaScript, and other languages, and an eagerness to learn.
+I'm a Computer Science and Digital Studies student at Grand Valley State University and have been making digital media for nearly a decade. I have years of professional experience with the Adobe Suite and 3D art packages, experience with Java, C#, C++ HTML/CSS, JavaScript, and other languages, and an eagerness to learn.
 
 I am extremely passionate about ways in which artistic expression is conveyed through digital media, and strive to create things with true impact through my own work.
 
