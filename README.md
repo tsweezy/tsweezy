@@ -1,14 +1,20 @@
-### Howdy 👋
+### Hiya 👋
 
 Thanks for checking out my profile!
 
-🔎 I'm currently seaching for an internship in software or game development.  
-📫 Looking to get in touch? You can reach me at [trevor@setbold.com](mailto:trevor@setbold.com).
+✉️ Looking to get in touch? You can reach me at [trevor@setbold.com](mailto:trevor@setbold.com).
 
-#### A bit more about me
+👀 Check out some of my other work on my portfolio website, [setbold.com](http://www.setbold.com).
 
-I'm a Computer Science and Digital Studies student at Grand Valley State University and have been making digital media for nearly a decade. I have years of professional experience with the Adobe Suite and 3D art packages, experience with Java, C#, C++ HTML/CSS, JavaScript, and other languages, and an eagerness to learn.
+🔗 Recruiter/professional? Connect with me on [LinkedIn](https://www.linkedin.com/in/trvr-sweet).
 
-I am extremely passionate about ways in which artistic expression is conveyed through digital media, and strive to create things with true impact through my own work.
+#### I'm passionate about
+The intersection of art and science. Video games as art. Software that is ethically produced and puts the user's best interests first. Software for public good.
 
-☀ have a great day 🌻
+#### I'm studying
+
+BS in Computer Science with a minor in Digital Studies at Grand Valley State University.
+
+#### What you can do for me
+
+Have a good day :)
