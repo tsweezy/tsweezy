@@ -8,13 +8,6 @@ Thanks for checking out my profile!
 
 🔗 Recruiter/professional? Connect with me on [LinkedIn](https://www.linkedin.com/in/trvr-sweet).
 
-#### I'm passionate about
-The intersection of art and science. Video games as art. Software that is ethically produced and puts the user's best interests first. Software for public good.
-
-#### I'm studying
-
-BS in Computer Science with a minor in Digital Studies at Grand Valley State University.
-
-#### What you can do for me
+I'm passionate about the intersection of art and science. Video games as art. Software that is ethically produced and puts the user's best interests first. Software for public good.
 
 Have a good day :)
