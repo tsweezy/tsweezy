@@ -2,9 +2,9 @@
 
 Thanks for checking out my profile!
 
-✉️ Looking to get in touch? You can reach me at [trevor@setbold.com](mailto:trevor@setbold.com).
+👀 Check out some of my other work on my portfolio website, [tsweet.works](http://www.tsweet.works).
 
-👀 Check out some of my other work on my portfolio website, [setbold.com](http://www.setbold.com).
+✉️ Looking to get in touch? You can reach me at [hello@tsweet.works](mailto:hello@tsweet.works).
 
 🔗 Recruiter/professional? Connect with me on [LinkedIn](https://www.linkedin.com/in/trvr-sweet).
 
