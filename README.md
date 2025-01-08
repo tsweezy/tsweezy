@@ -8,6 +8,6 @@ Thanks for checking out my profile!
 
 🔗 Recruiter/professional? Connect with me on [LinkedIn](https://www.linkedin.com/in/trvr-sweet).
 
-I'm passionate about the intersection of art and science. Video games as art. Software that is ethically produced and puts the user's best interests first. Software for public good.
+I'm passionate about the intersection of art and science. New forms of interactive media excite me. I seek out software and tools that are ethically produced and put users' best interests first. Software for public good.
 
 Have a good day :)
