@@ -2,7 +2,7 @@
 
 Thanks for checking out my profile!
 
-👀 Check out some of my other work on my portfolio website, [tsweet.works](http://www.tsweet.works).
+👀 Check out some of my other work on my portfolio website, [tsweet.works](http://www.tsweet.works), handmade with SvelteKit.
 
 ✉️ Looking to get in touch? You can reach me at [hello@tsweet.works](mailto:hello@tsweet.works), or connect with me on [LinkedIn](https://www.linkedin.com/in/trvr-sweet).
 
